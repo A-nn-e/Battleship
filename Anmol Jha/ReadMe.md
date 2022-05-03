@@ -23,3 +23,11 @@ Also, variation in solution can also be seen in the smaller boards though, less 
 ![incorrect 2](https://user-images.githubusercontent.com/78024291/166553850-84ece00c-2c26-495b-877b-7ece7809247b.PNG)
 
 Both the correct and incorrect solutions can be obtained for the same input. This variation and inaccuracy in solutions becomes more frequent as the size of the board increases.
+
+## INSTRUCTIONS
+
+* To run the code click on the "Open in Colab" button on the top left corner of the file. 
+* The file will open in a Google Colaboratory Notebook linked with your Google account. 
+* You can change the input in the last cell of the notebook. 
+* The output is the final solution of the puzzle according to the inputs.
+* Re-run the last cell again to view a different solution of the same input.
