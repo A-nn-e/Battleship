@@ -1,96 +1,21 @@
 Battleship Puzzle Solver:
 =========================
 
-Explination of battleship puzzle game:
+Explanation of battleship puzzle game:
 https://en.wikipedia.org/wiki/Battleship\_(puzzle)
 
-This code receives a battleship puzzle as input in this format:
+This solution used constraint programming to solve multiple instances of the famous battleship puzzle. To run the code, follow the given steps:
 
-board 10 10\
-rows 2 2 4 2 1 2 1 4 2 0\
-cols 3 3 1 2 1 1 3 1 1 4\
-submarine\
-submarine\
-submarine\
-submarine\
-destroyer\
-destroyer\
-destroyer\
-cruiser\
-cruiser\
-battleship
-
-This input includes the size of the board, the amount of ship tiles in
-every row and column,\
-and a list of all of the ships that are on the board. Then the program
-solves the puzzle and\
-returns all the ships it found and it their location. It also returns
-prints a ASCII picture\
-of what the board looks like in this format:
-
-Solution: battleship 2 0 horizontal\
-cruiser 7 3 horizontal\
-cruiser 3 6 vertical\
-destroyer 0 0 horizontal\
-destroyer 1 7 horizontal\
-destroyer 7 9 vertical\
-submarine 3 9\
-submarine 5 9\
-submarine 6 0\
-submarine 8 1\
-+----------+\
-\|\<\> \|2\
-\| \<\> \|2\
-\|`<xx>`{=html} \|4\
-\| \^ o\|2\
-\| x \|1\
-\| v o\|2\
-\|o \|1\
-\| `<x>`{=html} \^\|4\
-\| o v\|2\
-\| \|0\
-+----------+\
-3312113114
-
-In addition, you can pass in a second input in this format:\
-board 10 10\
-rows 2 2 4 2 1 2 1 4 2 0\
-cols 3 3 1 2 1 1 3 1 1 4\
-submarine\
-submarine\
-submarine\
-submarine\
-destroyer\
-destroyer\
-destroyer\
-cruiser\
-cruiser\
-battleship\
-constraint 2 4 X\
-constraint 7 1 X\
-constraint 7 7 X
-
-This is identical to the first argument except it contains a list of
-constraints.\
-These constraints include the row and the column, and a character of
-what needs to be\
-in that postition. Then the program will return a list of all the
-possible solutions\
-to this puzzle with the constraints.
-
-Coordinates are in this format:\
-+----------+\
-\| \|0\
-\| \|1\
-\| \|2\
-\| \|3\
-\| \|4 (y)\
-\| \|5\
-\| \|6\
-\| \|7\
-\| \|8\
-\| \|9\
-+----------+\
-0123456789
-
-    (x)
+1. Clone this repository
+```
+git clone (link of this repo)
+```
+2. Go to the folder
+```
+cd Manasvi Singh Chauhan - Constraint Programming
+```
+3. Run the program.
+```
+./main.exe (Name of the text file) (for ex. puzzle1.txt)
+```
+A lot of instances are already given in the folder so you can use any of then to see the result.
