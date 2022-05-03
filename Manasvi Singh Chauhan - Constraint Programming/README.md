@@ -19,3 +19,6 @@ cd Manasvi Singh Chauhan - Constraint Programming
 ./main.exe (Name of the text file) (for ex. puzzle1.txt)
 ```
 A lot of instances are already given in the folder so you can use any of then to see the result.
+
+#Screenshot of the output: 
+![Output](output_SS.png)
