@@ -1,6 +1,6 @@
-# Battleship different algorithms explanation
+# Battleship different algorithms
 
-## Khushi singh- backtracking plus pruning algo 
+## Khushi singh- backtracking plus pruning 
 
 * Inorder to run kindly open the ipynb file and to see the code of the two important files the backtracking_pruning.py and puzzle.py can be used. Both of them have been uploaded in the drive and downloaded in the colab to be used.
 * The algorithm prints two solutions :
