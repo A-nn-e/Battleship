@@ -12,19 +12,22 @@
 
 average time taken : 1.719 seconds 
 
-example instance ->![image](https://user-images.githubusercontent.com/77771850/166457844-b440afc9-f0bc-4536-b5f7-8815be0ac788.png)
+example instance ->
+![image](https://user-images.githubusercontent.com/77771850/166457844-b440afc9-f0bc-4536-b5f7-8815be0ac788.png)
 
 #### 7 X 7 board with (battleships : 0 || cruisers : 1 || submarines : 2 || destroyers : 3)
 
 average time taken : 5.371 seconds
  
-example instance ->![image](https://user-images.githubusercontent.com/77771850/166458462-3113e3f2-999f-4660-a3b5-53fb5d25822c.png)
+example instance ->
+![image](https://user-images.githubusercontent.com/77771850/166458462-3113e3f2-999f-4660-a3b5-53fb5d25822c.png)
 
 #### 8 X 8 board with (battleships : 0 || cruisers : 1 || submarines : 2 || destroyers : 3)
 
 average time taken : 9.231 seconds
 
-example instance ->![image](https://user-images.githubusercontent.com/77771850/166458638-d05341e4-edf9-4fc1-9927-eeff16a527fb.png)
+example instance ->
+![image](https://user-images.githubusercontent.com/77771850/166458638-d05341e4-edf9-4fc1-9927-eeff16a527fb.png)
 
 
 
