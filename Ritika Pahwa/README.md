@@ -14,4 +14,13 @@ A 6×6 Battleship puzzle solved using genetic algorithm.
 - 0s represent water and 1s represent ships
 
 ## Sample Output
+<p align="center"><img src="https://github.com/A-nn-e/Battleship/blob/main/Ritika%20Pahwa/Output.png" width=400/></p>
+
+## Results and Conclusion
+- Time vs Population Size 
+<p align="center"><img src="https://github.com/A-nn-e/Battleship/blob/main/Ritika%20Pahwa/Time%20vs%20Population%20Size.png" width=600/></p>
+- Accuracy vs Population Size
+<p align="center"><img src="https://github.com/A-nn-e/Battleship/blob/main/Ritika%20Pahwa/Accuracy%20vs.%20Population%20Size.png" width=600/></p>
+After running the algorithm with population size and generation limit in the range 10-15000, a significant increase in the accuracy was observed. However, an increase in these two paramenters also increased the average run time of the program from 0.921 seconds to 6.803 seconds.
+
 
