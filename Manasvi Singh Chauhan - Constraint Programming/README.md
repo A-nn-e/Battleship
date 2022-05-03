@@ -16,6 +16,6 @@ cd Manasvi Singh Chauhan - Constraint Programming
 ```
 3. Run the program.
 ```
-./main.exe (Name of the text file)
+./main.exe (Name of the text file) (for ex. puzzle1.txt)
 ```
 A lot of instances are already given in the folder so you can use any of then to see the result.
