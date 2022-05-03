@@ -1,4 +1,3 @@
-# Battleship 
 # **GENETIC ALGORITHM FOR BATTLESHIP SOLITAIRE**
 <p align="center"><img src="https://github.com/A-nn-e/Battleship/blob/main/Ritika%20Pahwa/Battleships-Puzzle.png" width=400/></p>
 
